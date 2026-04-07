@@ -1,3 +1,17 @@
+# install nodejs npm git
+```bash
+
+sudo apt update && sudo apt install -y nodejs npm git
+
+node --version
+npm --version
+git --version
+
+
+curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+sudo apt install -y nodejs
+```
+
 # pi-api
 
 A tiny Express API that serves live system info from your Raspberry Pi.
