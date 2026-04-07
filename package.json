@@ -1,0 +1,12 @@
+{
+  "name": "pi-api",
+  "version": "1.0.0",
+  "description": "Simple system info API for the Linux class",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
