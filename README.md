@@ -6,7 +6,7 @@ Built for the Catalyst IT Linux class.
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pi-api
+git clone https://github.com/CatalystSolutionsLLC/l10-linux.git
 cd pi-api
 npm install
 node app.js
