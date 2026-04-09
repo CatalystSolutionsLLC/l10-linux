@@ -30,7 +30,7 @@ Built for the Catalyst IT Linux class.
 
 ```bash
 git clone https://github.com/CatalystSolutionsLLC/l10-linux.git
-cd pi-api
+cd l10-linux
 npm install
 node app.js
 ```
